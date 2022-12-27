@@ -1,5 +1,0 @@
-package com.springdatajpa.demo.entities;
-
-public class Student {
-
-}

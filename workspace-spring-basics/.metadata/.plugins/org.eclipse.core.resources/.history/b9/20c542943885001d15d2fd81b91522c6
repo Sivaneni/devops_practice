@@ -1,7 +1,0 @@
-package com.springdatajpa.batch;
-
-import org.springframework.batch.item.ItemProcessor;
-
-public class Processor implements ItemProcessor<I, O> {
-
-}

@@ -1,5 +1,0 @@
-package com.payement.demo.service;
-
-public class PayementServiceImpl implements PayementService {
-
-}

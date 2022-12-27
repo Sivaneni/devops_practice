@@ -1,6 +1,0 @@
-ec2 instance register with ECS Cluster will run as ECS Agent
-
-can define uptp 10 containers in a task definition
-Dynamic Hosting port if you define only the container port in the task definition
-
-
