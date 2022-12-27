@@ -1,0 +1,7 @@
+package com.springdatajpa.batch;
+
+import org.springframework.batch.item.ItemReader;
+
+public class Reader implements ItemReader<T> {
+
+}

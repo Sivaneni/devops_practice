@@ -1,0 +1,5 @@
+package com.ImplementRest.demo.config;
+
+public class ProductCacheConfig {
+
+}

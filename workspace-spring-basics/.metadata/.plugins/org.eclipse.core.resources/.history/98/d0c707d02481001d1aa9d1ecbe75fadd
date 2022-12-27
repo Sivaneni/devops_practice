@@ -1,0 +1,5 @@
+package com.payement.demo.dao;
+
+public class PayementDAOImpl implements PayementDAO {
+
+}
